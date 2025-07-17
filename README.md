@@ -37,27 +37,27 @@ The repository includes two main PowerShell scripts (attached in the repository)
 
 ### 1. Policy Application Script (`apply_audit_policies.ps1`)
 Automatically configures all required audit policies and registry settings:
-- ✅ Advanced Audit Policy Configuration via `auditpol` commands
-- ✅ Registry Modifications for Enhanced Logging
-- ✅ Operational Log Enablement (16 different log channels)
-- ✅ Command Line Process Auditing
-- ✅ PowerShell Script Block Logging
-- ✅ Log Size Optimization (Security: 1GB, System/Application: 512MB)
-- ✅ Group Policy Updates with `gpupdate /force`
-- ✅ Sysmon Detection and Service Management
-- ✅ Comprehensive Configuration Validation
-- ✅ Automatic Restart Option
+-  Advanced Audit Policy Configuration via `auditpol` commands
+-  Registry Modifications for Enhanced Logging
+-  Operational Log Enablement (16 different log channels)
+-  Command Line Process Auditing
+-  PowerShell Script Block Logging
+-  Log Size Optimization (Security: 1GB, System/Application: 512MB)
+-  Group Policy Updates with `gpupdate /force`
+-  Sysmon Detection and Service Management
+-  Comprehensive Configuration Validation
+-  Automatic Restart Option
 
 ### 2. Simple Event Monitor (`simple_monitor.ps1`)
 Provides real-time monitoring and validation of audit configuration:
-- 🔍 Audit Policy Status Verification
-- 🔍 Critical Event Detection (10 key Event IDs)
-- 🔍 Windows Defender Event Monitoring
-- 🔍 Sysmon Activity Tracking
-- 🔍 Event Generation Testing
-- 🔍 Continuous Monitoring Mode
-- 🔍 Color-coded Alert Levels (CRITICAL/HIGH/MEDIUM)
-- 🔍 Historical Event Analysis (configurable timeframe)
+-  Audit Policy Status Verification
+-  Critical Event Detection (10 key Event IDs)
+-  Windows Defender Event Monitoring
+-  Sysmon Activity Tracking
+-  Event Generation Testing
+-  Continuous Monitoring Mode
+-  Color-coded Alert Levels (CRITICAL/HIGH/MEDIUM)
+-  Historical Event Analysis (configurable timeframe)
 
 ## Event ID Reference
 
