@@ -160,5 +160,4 @@ Provides real-time monitoring and validation of audit configuration:
 
 ⭐ **Star this repository** if you find it useful for your Windows security monitoring needs!
 
-**Version**: 1.0.0  
-**Compatibility**: Windows 10/11, Windows Server 2016+
+**Version**: 1.0.0
