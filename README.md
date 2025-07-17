@@ -151,6 +151,13 @@ Provides real-time monitoring and validation of audit configuration:
 - [Australian Cyber Security Centre - Windows Event Logging](https://www.cyber.gov.au/acsc/view-all-content/publications/windows-event-logging-and-forwarding) - ACSC Guidelines
 - [UK NCSC Logging Guidance](https://www.ncsc.gov.uk/collection/mobile-device-guidance) - National Cyber Security Centre
 
+### Industry and Institutional References
+- JSCU-NL/logging-essentials - Primary Inspiration: Windows event logging baseline by Joint Sigint Cyber Unit Netherlands
+- NSA Windows Event Log Messages - Event log message definitions and analysis
+- Australian Cyber Security Centre - Windows Event Logging - ACSC Windows Event Forwarding guidance
+- Malware Archaeology Windows Logging Cheat Sheets - Incident Response Logging
+- NSA Windows Event Monitoring Guidance - National Security Agency
+
 ⭐ **Star this repository** if you find it useful for your Windows security monitoring needs!
 
 **Version**: 1.0.0  
